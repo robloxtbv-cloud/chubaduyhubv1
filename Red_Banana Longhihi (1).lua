@@ -3273,10 +3273,10 @@ task.defer(function()
 end)
 Tabs.Info:AddSection("Thông Tin")
 Tabs.Info:AddButton({
-    ["Title"] = "LongHiHi Script | Community",
+    ["Title"] = "Binh an Script | Community",
     ["Description"] = "Discord",
     ["Callback"] = function()
-        setclipboard(tostring("https://discord.gg/yt2v62GYX"))
+        setclipboard(tostring("https://discord.gg/yt2v62GYX43535"))
     end
 })
 Tabs.Info:AddButton({
@@ -3287,10 +3287,10 @@ Tabs.Info:AddButton({
     end
 })
 Tabs.Info:AddButton({
-    ["Title"] = "LongHiHi✅ ",
+    ["Title"] = "😭😭😭✅ ",
     ["Description"] = "Tiktok",
     ["Callback"] = function()
-        setclipboard(tostring("www.tiktok.com/@longhihi_script"))
+        setclipboard(tostring("www.tiktok.com/@longhihi_scriptffffff"))
     end
 })
 Tabs.Info:AddParagraph({
